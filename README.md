@@ -1,1 +1,1 @@
-# BMI-Prediction
+# BMI
